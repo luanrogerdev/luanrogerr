@@ -3,7 +3,7 @@
   
   <a href="https://github.com/luanrogerr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanrogerr&show_icons=true&custom_title=Luan Roger A. Ferreira&&theme=gradient&title_color=30647A&icon_color=76A4B6&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrogerr&layout=compact&title_color=30647A&theme=gradient"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrogerr&card_width=200&layout=compact&title_color=30647A&theme=gradient"/>
     
 </div>
   
