@@ -1,4 +1,4 @@
-## Olá, eu sou o Luan Roger e sou um Desenvolvedor Web!
+## Hello! I am Luan Roger and i'm a Web Developer!
 <div style="display:inline_block" align="center">
   
   <a href="https://github.com/luanrogerr">
