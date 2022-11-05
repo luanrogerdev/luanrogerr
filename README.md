@@ -1,9 +1,6 @@
 ## 💻 See my porfolio clicking <a href="http://luanrogerr.000webhostapp.com" target="_blank">here</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4500&pause=800&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Luan+Roger+and+i'm+a+Web+Developer!+%F0%9F%94%B1;You+can+see+my+portfolio+clicking+above)](https://git.io/typing-svg)
-
-
-
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4500&pause=800&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Luan+Roger+and+i'm+a+Web+Developer!+%F0%9F%94%B1;You+can+see+my+portfolio+clicking+above)](https://git.io/typing-svg)
 
   <div align="center">
   <a href="https://github.com/luanrogerr">
