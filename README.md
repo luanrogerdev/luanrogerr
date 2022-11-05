@@ -1,5 +1,5 @@
 ## Hello World! I'm Luan Roger and i'm a Web Developer! 🔱
-You can access my portfolio <a href="http://luanrogerr.000webhostapp.com" target="_blank">here</a> || luaanroger1234@gmail.com || <a href="http://wa.me/5521966628528" target="_blank">My WhatsApp</a>
+You can access my portfolio <a href="http://luanrogerr.000webhostapp.com" target="_blank">here</a> || luaanroger1234@gmail.com || <a href="http://wa.me/qr/SK3Z3QNFZC4MO1" target="_blank">My WhatsApp</a>
 
 <div style="display:inline_block" align="center">
   
