@@ -1,5 +1,5 @@
 ## Hello World! I'm Luan Roger and i'm a Web Developer! 🔱
-You can access my portfolio <a href="http://example.com/" target="_blank">Hello, world!</a>
+You can access my portfolio [here](http://example.com/){target="_blank"}
 
 <div style="display:inline_block" align="center">
   
