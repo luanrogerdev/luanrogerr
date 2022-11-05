@@ -25,5 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   
   <a href="https://www.linkedin.com/in/luanrogerr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/luanrogerr_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/luanrogerr/luanrogerr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
