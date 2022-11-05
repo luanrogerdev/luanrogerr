@@ -2,7 +2,7 @@
 <div style="display:inline_block" align="center">
   
   <a href="https://github.com/luanrogerr">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrogerr&layout=compact&langs_count=10&title_color=30647A&theme=gradient"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrogerr&hide=stars,prs,contribs&layout=compact&langs_count=10&title_color=30647A&theme=gradient"/>
     
 </div>
   
@@ -12,9 +12,9 @@
   
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-Php" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 </div>
   
