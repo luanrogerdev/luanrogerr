@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=800&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Luan+Roger+and+i'm+a+Web+Developer!+%F0%9F%94%B1;You+can+see+my+portfolio+clicking+above)](https://git.io/typing-svg)
 
   <div align="center">
-  <a href="https://github.com/luanrogerr">
+  <a href="https://github.com/luanrogerdev">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrogerr&hide=stars,prs,contribs&layout=compact&langs_count=10&title_color=30647A&theme=gradient"/>
     
   <img align="center" alt="Luan-Php" height="30" width="40" 
