@@ -19,11 +19,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
  
 <div align="center"> 
   
-  <a href="https://www.linkedin.com/in/luanrogerr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="luaanroger1234@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=5521966628528&text=Hello!%20i%20came%20from%20Github.%20Can%20we%20talk%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://www.linkedin.com/in/luanrogerdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="luanroger.alf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=5521975270423&text=Hello!%20i%20came%20from%20Github.%20Can%20we%20talk%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   
-![Snake animation](https://github.com/luanrogerdev/luanrogerdev/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>
